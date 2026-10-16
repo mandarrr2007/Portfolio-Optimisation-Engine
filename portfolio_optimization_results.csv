@@ -1,0 +1,15 @@
+metric,value
+project,Portfolio Optimization Engine
+method,Modern Portfolio Theory (MPT)
+assets,"AAPL, MSFT, GOOGL, AMZN"
+start_date,2019-01-01
+end_date,2024-01-01
+simulations,10000
+risk_free_rate,0.0
+random_seed,42
+optimization_target,Maximum Sharpe Ratio
+max_sharpe_ratio,1.03
+AAPL_weight_percent,64.29
+MSFT_weight_percent,0.75
+GOOGL_weight_percent,0.39
+AMZN_weight_percent,34.57
